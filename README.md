@@ -1,4 +1,3 @@
 # Hello_World
 
-New to github
-abcd
+Java programming
