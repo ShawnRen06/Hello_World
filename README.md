@@ -1,3 +1,3 @@
 # Hello_World
 
-Java programming
+Java programming is fun
